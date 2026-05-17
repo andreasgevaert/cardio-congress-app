@@ -21,6 +21,16 @@
   },
   {
     "year": 2026,
+    "name": "ESC Digital & AI Summit",
+    "city": "Basel",
+    "startDate": "2026-11-12",
+    "endDate": "2026-11-13",
+    "abstractDeadline": "2026-05-28",
+    "sourceUrl": "https://www.escardio.org/events/congresses/digital-ai-summit/",
+    "notes": ""
+  },
+  {
+    "year": 2026,
     "name": "EACVI Congress",
     "city": "Milan, Italy",
     "startDate": "2026-12-03",
@@ -41,26 +51,6 @@
   },
   {
     "year": 2027,
-    "name": "ACC Scientific Session",
-    "city": "Houston, Texas",
-    "startDate": "2027-04-10",
-    "endDate": "2027-04-12",
-    "abstractDeadline": "",
-    "sourceUrl": "https://www.acc.org/education-and-meetings/meetings",
-    "notes": ""
-  },
-  {
-    "year": 2027,
-    "name": "EAPC Winter Meeting",
-    "city": "",
-    "startDate": "",
-    "endDate": "",
-    "abstractDeadline": "",
-    "sourceUrl": "",
-    "notes": ""
-  },
-  {
-    "year": 2027,
     "name": "THT",
     "city": "Boston, Massachusetts",
     "startDate": "2027-02-22",
@@ -71,42 +61,22 @@
   },
   {
     "year": 2027,
-    "name": "BSEcho",
-    "city": "",
-    "startDate": "",
-    "endDate": "",
+    "name": "ACC Scientific Session",
+    "city": "Houston, Texas",
+    "startDate": "2027-04-10",
+    "endDate": "2027-04-12",
     "abstractDeadline": "",
-    "sourceUrl": "",
+    "sourceUrl": "https://www.acc.org/education-and-meetings/meetings",
     "notes": ""
   },
   {
     "year": 2027,
-    "name": "ESOT",
-    "city": "",
-    "startDate": "",
-    "endDate": "",
+    "name": "ISHLT Annual Meeting",
+    "city": "Sydney, Australia",
+    "startDate": "2027-04-14",
+    "endDate": "2027-04-17",
     "abstractDeadline": "",
-    "sourceUrl": "",
-    "notes": ""
-  },
-  {
-    "year": 2027,
-    "name": "ASE Scientific Sessions",
-    "city": "",
-    "startDate": "",
-    "endDate": "",
-    "abstractDeadline": "",
-    "sourceUrl": "https://www.asecho.org/education/conferences-events/",
-    "notes": ""
-  },
-  {
-    "year": 2027,
-    "name": "ESC Preventive Cardiology",
-    "city": "Lisbon, Portugal",
-    "startDate": "",
-    "endDate": "",
-    "abstractDeadline": "",
-    "sourceUrl": "https://www.escardio.org/Congresses-Events/ESC-Preventive-Cardiology",
+    "sourceUrl": "https://www.ishlt.org/meetings-education/annual-meeting",
     "notes": ""
   },
   {
@@ -121,32 +91,12 @@
   },
   {
     "year": 2027,
-    "name": "ISHLT Annual Meeting",
-    "city": "Sydney, Australia",
-    "startDate": "2027-04-14",
-    "endDate": "2027-04-17",
-    "abstractDeadline": "",
-    "sourceUrl": "https://www.ishlt.org/meetings-education/annual-meeting",
-    "notes": ""
-  },
-  {
-    "year": 2027,
     "name": "ESC Congress",
     "city": "Milan, Italy",
     "startDate": "2027-08-27",
     "endDate": "2027-08-30",
     "abstractDeadline": "",
     "sourceUrl": "https://www.escardio.org/events/congresses/esc-congress/future-destinations",
-    "notes": ""
-  },
-  {
-    "year": 2027,
-    "name": "HFSA Annual Scientific Meeting",
-    "city": "",
-    "startDate": "",
-    "endDate": "",
-    "abstractDeadline": "",
-    "sourceUrl": "https://hfsa.org/asm",
     "notes": ""
   },
   {
@@ -161,12 +111,72 @@
   },
   {
     "year": 2027,
+    "name": "ASE Scientific Sessions",
+    "city": "",
+    "startDate": "",
+    "endDate": "",
+    "abstractDeadline": "",
+    "sourceUrl": "https://www.asecho.org/education/conferences-events/",
+    "notes": ""
+  },
+  {
+    "year": 2027,
+    "name": "BSEcho",
+    "city": "",
+    "startDate": "",
+    "endDate": "",
+    "abstractDeadline": "",
+    "sourceUrl": "",
+    "notes": ""
+  },
+  {
+    "year": 2027,
     "name": "EACVI Congress",
     "city": "",
     "startDate": "",
     "endDate": "",
     "abstractDeadline": "",
     "sourceUrl": "https://www.escardio.org/events/congresses/eacvi-congress",
+    "notes": ""
+  },
+  {
+    "year": 2027,
+    "name": "EAPC Winter Meeting",
+    "city": "",
+    "startDate": "",
+    "endDate": "",
+    "abstractDeadline": "",
+    "sourceUrl": "",
+    "notes": ""
+  },
+  {
+    "year": 2027,
+    "name": "ESC Preventive Cardiology",
+    "city": "Lisbon, Portugal",
+    "startDate": "",
+    "endDate": "",
+    "abstractDeadline": "",
+    "sourceUrl": "https://www.escardio.org/Congresses-Events/ESC-Preventive-Cardiology",
+    "notes": ""
+  },
+  {
+    "year": 2027,
+    "name": "ESOT",
+    "city": "",
+    "startDate": "",
+    "endDate": "",
+    "abstractDeadline": "",
+    "sourceUrl": "",
+    "notes": ""
+  },
+  {
+    "year": 2027,
+    "name": "HFSA Annual Scientific Meeting",
+    "city": "",
+    "startDate": "",
+    "endDate": "",
+    "abstractDeadline": "",
+    "sourceUrl": "https://hfsa.org/asm",
     "notes": ""
   }
 ]
