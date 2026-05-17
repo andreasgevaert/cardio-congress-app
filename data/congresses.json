@@ -121,16 +121,6 @@
   },
   {
     "year": 2027,
-    "name": "BSEcho",
-    "city": "",
-    "startDate": "",
-    "endDate": "",
-    "abstractDeadline": "",
-    "sourceUrl": "",
-    "notes": ""
-  },
-  {
-    "year": 2027,
     "name": "EACVI Congress",
     "city": "",
     "startDate": "",
@@ -141,32 +131,12 @@
   },
   {
     "year": 2027,
-    "name": "EAPC Winter Meeting",
-    "city": "",
-    "startDate": "",
-    "endDate": "",
-    "abstractDeadline": "",
-    "sourceUrl": "",
-    "notes": ""
-  },
-  {
-    "year": 2027,
     "name": "ESC Preventive Cardiology",
     "city": "Lisbon, Portugal",
     "startDate": "",
     "endDate": "",
     "abstractDeadline": "",
     "sourceUrl": "https://www.escardio.org/Congresses-Events/ESC-Preventive-Cardiology",
-    "notes": ""
-  },
-  {
-    "year": 2027,
-    "name": "ESOT",
-    "city": "",
-    "startDate": "",
-    "endDate": "",
-    "abstractDeadline": "",
-    "sourceUrl": "",
     "notes": ""
   },
   {
